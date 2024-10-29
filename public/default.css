@@ -36,6 +36,7 @@ BODY {
 }
 
 #results {
+    background-color: #5362e0;
     position: relative;
     top: 0;
     left: 0;
